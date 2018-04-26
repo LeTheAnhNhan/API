@@ -1,0 +1,18 @@
+Active Processor Mask :		15
+Allocation Granularity :		65536
+Number Of Processors :		4
+OEM ID :				0
+Page Size :			4096
+Processor Level Value :		2382954502
+Processor Revision :		0
+CPU type :			Intel Pentium
+Maximum Application Address :	4294901759
+Minimum Application Address :	65536
+Available Page File :		2598864
+Available Physical Memory :		870184
+Available Virtual Memory :		3967188
+Size of structur :			32
+Memory In Use :			78
+Total Page Size :			4194303
+Total Physical Memory :		3968160
+Total Virtual Memory :		4194176

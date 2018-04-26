@@ -1,0 +1,9 @@
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Form1.resources
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.Cache
+D:\He dieu hanh\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csprojResolveAssemblyReference.cache
+D:\He dieu hanh\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\He dieu hanh\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\He dieu hanh\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
